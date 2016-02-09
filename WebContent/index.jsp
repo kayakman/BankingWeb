@@ -11,7 +11,6 @@ This is the first version of the application BankingWeb
 We add this line in the second version
 and will continue adding more exiting stuff
 as we did today 
-And more to come
 testing the rule to add a changeset automatically 
 relate the revision to it
 build and deploy it to the DEV environment
