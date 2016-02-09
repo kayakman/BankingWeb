@@ -16,5 +16,6 @@ relate the revision to it
 build and deploy it to the DEV environment
 after generating a job with a pipeline 
 and deploying the war file
+
 </body>
 </html>
