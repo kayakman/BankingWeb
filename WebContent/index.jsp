@@ -13,5 +13,6 @@ and will continue adding more exiting stuff
 as we did today 
 And more to come
 testing the rule to add a changeset automatically 
+relate the revision to it
 </body>
 </html>
