@@ -12,6 +12,6 @@ We add this line in the second version
 and will continue adding more exiting stuff
 as we did today 
 And more to come
-testing the rule to add a changeset
+testing the rule to add a changeset automatically 
 </body>
 </html>
