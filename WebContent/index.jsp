@@ -14,5 +14,6 @@ as we did today
 And more to come
 testing the rule to add a changeset automatically 
 relate the revision to it
+build and deploy it to the DEV environment
 </body>
 </html>
