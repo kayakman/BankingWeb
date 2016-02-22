@@ -15,7 +15,7 @@ testing the rule to add a changeset automatically
 relate the revision to it
 build and deploy it to the DEV environment
 after generating a job with a pipeline 
-and deploying the war file
+and deploying the war file to the DEV environment
 
 </body>
 </html>
