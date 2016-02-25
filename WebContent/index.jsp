@@ -7,17 +7,6 @@
 <title>BankingWeb</title>
 </head>
 <body>
-This is the first version of the application BankingWeb
-and will continue adding more exiting stuff
-as we did today 
-testing the rule to add a changeset automatically 
-relate the revision to it
-build and deploy it to the DEV environment
-after generating a job with a pipeline 
-and deploying the war file to the DEV environment
-The changeset will go thru his lifecycle to production
-and maybe rollback
-another line added
-new line
+Dag Eddy
 </body>
 </html>
