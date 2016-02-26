@@ -7,6 +7,6 @@
 <title>BankingWeb</title>
 </head>
 <body>
-Groeten uit het verre Kortrijk
+Hola Madrid, saludos de Kortrijk
 </body>
 </html>
