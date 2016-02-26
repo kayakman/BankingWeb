@@ -7,7 +7,6 @@
 <title>BankingWeb</title>
 </head>
 <body>
-Hola Ana, Gracias por su trabajo , Belgium
-And good morning again
+Goeiemorgen Eddy, Hoe gaat het vandaag?
 </body>
 </html>
