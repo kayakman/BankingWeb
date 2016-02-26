@@ -7,6 +7,6 @@
 <title>BankingWeb</title>
 </head>
 <body>
-Goeiemorgen Eddy, Hoe gaat het vandaag?
+Groeten uit het verre Kortrijk
 </body>
 </html>
