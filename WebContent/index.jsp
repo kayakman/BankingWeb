@@ -7,7 +7,7 @@
 <title>BankingWeb</title>
 </head>
 <body>
-This is the index of the sample application
+This is the index of the sample application for JBoss
 
 It was deployed by job ${job_name} to environment ${bl}
 </body>
