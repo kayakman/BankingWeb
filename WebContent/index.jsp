@@ -7,6 +7,8 @@
 <title>BankingWeb</title>
 </head>
 <body>
-Hola Madrid, saludos de Kortrijk
+This is the index of the sample application
+
+It was deployed by job ${job_name} to environment ${bl}
 </body>
 </html>
