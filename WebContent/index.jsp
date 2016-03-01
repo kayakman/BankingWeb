@@ -10,5 +10,7 @@
 This is the index of the sample  Java application running on a JBoss server
 
 It was deployed by job ${job_name} to the ${bl} environment 
+
+And status change of the Changeset to Ready for QA after automated testing
 </body>
 </html>
