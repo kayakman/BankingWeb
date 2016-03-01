@@ -9,6 +9,6 @@
 <body>
 This is the index of the sample application for JBoss
 
-It was deployed by job ${job_name} to environment ${bl}
+It was deployed by job ${job_name} to the ${bl} environment 
 </body>
 </html>
