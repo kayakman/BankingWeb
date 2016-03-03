@@ -11,7 +11,6 @@ This is the index of the sample  Java application running on a JBoss server
 
 It was deployed by job ${job_name} to the ${bl} environment 
 
-Status should change to Ready for QA after automated testing
-and a new job kicked off to prepare for QA  deployment
+Changes on 3/3/2016
 </body>
 </html>
