@@ -7,10 +7,10 @@
 <title>BankingWeb</title>
 </head>
 <body>
-This is the index of the sample  Java application running on a JBoss server
+<H1>This is the index of the sample Java application running on a JBoss server</H1>
 
-It was deployed by job ${job_name} to the ${bl} environment 
+<p>It was deployed by job ${job_name} to the ${bl} environment </p>
 
-Changes on 3/3/2016
+<p>Changes on 3/3/2016</p>
 </body>
 </html>
