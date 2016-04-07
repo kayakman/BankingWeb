@@ -11,6 +11,6 @@
 
 <p>It was deployed by job ${job_name} to the ${bl} environment </p>
 
-<p>Changes on 07/04/2016 17:28 empowered by Clarive Software</p>
+<p>Changes on 07/04/2016 19:36 empowered by Clarive Software</p>
 </body>
 </html>
