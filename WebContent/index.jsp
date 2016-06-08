@@ -37,8 +37,9 @@
 		<input type="hidden" name="requesttoken" value="LSAzEUEOKBhgGEVtfz0mMikZYR8bPR1+MjsAYUEuUg8=:XIbI7gnhUb79GNchmP2YSlJFcZDPuwaGHoJSU8oRFPA=">
 	</fieldset>
 </form>
-<p>Deployed in: ${job_name}</p> 
+<p>Deployed by: ${job_name}</p> 
 <p>Environment: ${bl}</p>
+<p>Empowered by Clarive 6.4.5 on 08/06/2016</p>
 
 </body>
 </html>
