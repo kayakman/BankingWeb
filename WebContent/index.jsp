@@ -5,7 +5,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <title>New BankingWeb</title>
- <!-- <link rel="icon" type="image/png" href="images/favicon.ico"> -->
+  <link rel="icon" type="image/png" href="images/favicon.ico">
 </head>
 <body>
 <img src="images/logo.png" alt="Acmebank Inc."/>
