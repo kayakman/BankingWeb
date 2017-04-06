@@ -37,7 +37,7 @@
 		<input type="hidden" name="requesttoken" value="LSAzEUEOKBhgGEVtfz0mMikZYR8bPR1+MjsAYUEuUg8=:XIbI7gnhUb79GNchmP2YSlJFcZDPuwaGHoJSU8oRFPA=">
 	</fieldset>
 </form>
-<p>Deployed by: ${job_name}. Hello world</p> 
+<p>Deployed by: ${job_name}. Hello world for Colombia</p> 
 <p>Environment: ${bl}</p>
 <p>Empowered by Clarive ${clarive_version} on ${job.starttime}</p>
 </body>
