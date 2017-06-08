@@ -37,7 +37,7 @@
 		<input type="hidden" name="requesttoken" value="LSAzEUEOKBhgGEVtfz0mMikZYR8bPR1+MjsAYUEuUg8=:XIbI7gnhUb79GNchmP2YSlJFcZDPuwaGHoJSU8oRFPA=">
 	</fieldset>
 </form>
-<p>Deployed by: ${job_name} From Brasil</p> 
+<p>Deployed by: ${job_name} From Brasil for CS#3042</p> 
 <p>Environment: ${bl}</p>
 <p>This version is adapted to release 3.7</p>
 <p>Empowered by Clarive ${clarive_version} on ${job.starttime}</p>
