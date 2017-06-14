@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>BankingWeb</groupId>
   <artifactId>BankingWeb</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>${artifact_version}</version>
   <packaging>war</packaging>
   <build>
     <finalName>BankingWeb</finalName>
@@ -26,4 +26,14 @@
       </plugin>
     </plugins>
   </build>
+  <distributionManagement>
+   <snapshotRepository>
+      <id>clarive-snapshots</id>
+      <url>http://demo.clarive.com/artifacts/repo/snapshots</url>
+   </snapshotRepository>
+   <repository>
+      <id>clarive-releases</id>
+      <url>http://demo.clarive.com/artifacts/repo/releases</url>
+   </repository>
+</distributionManagement>
 </project>
