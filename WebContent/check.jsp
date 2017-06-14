@@ -5,14 +5,14 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <title>New BankingWeb Testing Demo</title>
-  <link rel="icon" type="image/png" href="images/favicon.ico">
+<!--   <link rel="icon" type="image/png" href="images/favicon.ico"> -->
 </head>
 <body>
 <img src="images/logo.png" alt="Acmebank Inc."/>
 <H2>BankingWeb</H2>
 
 <H2>Check OK</H2>
-<p>Deployed by: ${job_name} From Brasil</p> 
+<p>Deployed by: ${job_name}</p> 
 <p>Empowered by Clarive ${clarive_version} on ${job.starttime}</p>
 </body>
 </html>
