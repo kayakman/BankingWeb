@@ -26,4 +26,14 @@
       </plugin>
     </plugins>
   </build>
+  <distributionManagement>
+   <snapshotRepository>
+      <id>clarive-snapshots</id>
+      <url>http://demo.clarive.com/artifacts/repo/snapshots</url>
+   </snapshotRepository>
+   <repository>
+      <id>clarive-releases</id>
+      <url>http://demo.clarive.com/artifacts/repo/releases</url>
+   </repository>
+</distributionManagement>
 </project>
