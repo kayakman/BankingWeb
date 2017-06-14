@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>BankingWeb</groupId>
   <artifactId>BankingWeb</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>${artifact_version}</version>
   <packaging>war</packaging>
   <build>
     <finalName>BankingWeb</finalName>
