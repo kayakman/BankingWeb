@@ -9,7 +9,7 @@
 </head>
 <body>
 <img src="images/logo.png" alt="Acmebank Inc. Change"/>
-<H2>BankingWeb</H2>
+<H2>BankingWeb</H2>   
 <form method="post" name="login">
 	<fieldset>
 		<p class="grouptop">
