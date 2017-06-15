@@ -8,7 +8,7 @@
   <link rel="icon" type="image/png" href="images/favicon.ico">
 </head>
 <body>
-<img src="images/logo.png" alt="Acmebank Inc."/>
+<img src="images/logo.png" alt="Acmebank Inc. Change"/>
 <H2>BankingWeb</H2>
 <form method="post" name="login">
 	<fieldset>
