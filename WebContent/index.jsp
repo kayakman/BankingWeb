@@ -38,7 +38,7 @@
 	</fieldset>
 </form>
 <p>Deployed by: ${job_name}</p> 
-<p>Environment: ${bl}</p>
+<p>To Environment: ${bl}</p>
 <p>Empowered by Clarive ${clarive_version} on ${job.starttime}</p>
 </body>
 </html>
