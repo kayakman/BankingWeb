@@ -11,7 +11,6 @@
 <img src="images/logo.png" alt="Acmebank Inc."/>
 <H2>BankingWeb</H2>
 
-<H2>Check OK FOrrester</H2>
 <p>Deployed by: ${job_name}</p> 
 <p>Empowered by Clarive ${clarive_version} on ${job.starttime}</p>
 </body>
