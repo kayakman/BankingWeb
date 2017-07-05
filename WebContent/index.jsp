@@ -25,7 +25,7 @@
 			<input type="password" name="password" id="password" value=""
 				placeholder="Password"
 								autocomplete="on" autocapitalize="off" autocorrect="off" required>
-			<input type="submit" id="submit" title="Log in" value="Login" disabled="disabled"/>
+			<input type="submit" id="submit" title="Log in" value="Login"/>
 		</p>
 
 						<div class="remember-login-container">
