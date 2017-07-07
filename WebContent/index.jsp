@@ -15,7 +15,7 @@
 		<p class="grouptop">
 			<label for="user">Username</label>
 			<input type="text" name="user" id="user"
-				placeholder="Username"
+				placeholder="Username: "
 				value=""
 				autofocus				autocomplete="on" autocapitalize="off" autocorrect="off" required>
 		</p>
