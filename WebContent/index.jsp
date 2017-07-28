@@ -17,7 +17,7 @@
 			<input type="text" name="user" id="user"
 				placeholder="Username: "
 				value=""
-				autofocus				autocomplete="on" autocapitalize="off" autocorrect="off" required>
+				autofocus	autocomplete="on" autocapitalize="off" autocorrect="off" required>
 		</p>
 
 		<p class="groupbottom">
