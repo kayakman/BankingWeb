@@ -13,7 +13,7 @@
 <form method="post" name="login">
 	<fieldset>
 		<p class="grouptop">
-			<label for="user">User Name (LDAP real name): </label>
+			<label for="user">User Name (LDAP id): </label>
 			<input type="text" name="user" id="user"
 				placeholder="Username: "
 				value=""
