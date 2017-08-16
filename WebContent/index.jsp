@@ -4,7 +4,7 @@
 <html>
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <title>New BankingWeb for Demo CollabNet</title>
+  <title>New BankingWeb</title>
   <link rel="icon"  type="image/png" href="images/favicon.ico">
 </head>
 <body>
@@ -13,7 +13,7 @@
 <form method="post" name="login">
 	<fieldset>
 		<p class="grouptop">
-			<label for="user">User Name (LDAP id): </label>
+			<label for="user">User Name (LDAP id) xxx: </label>
 			<input type="text" name="user" id="user"
 				placeholder="Username: "
 				value=""
