@@ -4,20 +4,20 @@
 <html>
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <title>New BankingWeb for Demo CollabNet</title>
-  <link rel="icon" type="image/png" href="images/favicon.ico">
+  <title>New BankingWeb</title>
+  <link rel="icon"  type="image/png" href="images/favicon.ico">
 </head>
 <body>
-<img src="images/logo.png" alt="Acmebank Inc. Change"/>
+<img src="images/logo.png" alt="Acmebank Inc. Change August again"/>
 <H2>BankingWeb</H2>   
 <form method="post" name="login">
 	<fieldset>
 		<p class="grouptop">
-			<label for="user">Username: </label>
+			<label for="user">User Name (LDAP id) xxx: </label>
 			<input type="text" name="user" id="user"
 				placeholder="Username: "
 				value=""
-				autofocus				autocomplete="on" autocapitalize="off" autocorrect="off" required>
+				autofocus	autocomplete="on" autocapitalize="off" autocorrect="off" required>
 		</p>
 
 		<p class="groupbottom">
