@@ -39,6 +39,6 @@
 </form>
 <p>Deployed by: ${job_name} For Liberty</p> 
 <p>To Environment+: ${bl}</p>
-<p>Empowered by Clarive Software ${clarive_version} on ${job.starttime}</p>
+<p>Fully Empowered by Clarive Software ${clarive_version} on ${job.starttime}</p>
 </body>
 </html>
