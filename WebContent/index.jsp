@@ -13,7 +13,7 @@
 <form method="post" name="login">
 	<fieldset>
 		<p class="grouptop">
-			<label for="user">User Name (LDAP id) for #3153: </label>
+			<label for="user">User Name en viernes: </label>
 			<input type="text" name="user" id="user"
 				placeholder="Username: "
 				value=""
