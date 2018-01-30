@@ -13,7 +13,7 @@
 <form method="post" name="login">
 	<fieldset>
 		<p class="grouptop">
-			<label for="user">User Name (LDAP id) for #3153: </label>
+			<label for="user">User Name in LDAP: </label>
 			<input type="text" name="user" id="user"
 				placeholder="Username: "
 				value=""
@@ -37,8 +37,8 @@
 		<input type="hidden" name="requesttoken" value="LSAzEUEOKBhgGEVtfz0mMikZYR8bPR1+MjsAYUEuUg8=:XIbI7gnhUb79GNchmP2YSlJFcZDPuwaGHoJSU8oRFPA=">
 	</fieldset>
 </form>
-<p>Deployed by: ${job_name}</p> 
+<p>Deployed by: ${job_name} For demo</p> 
 <p>To Environment+: ${bl}</p>
-<p>Empowered by Clarive ${clarive_version} on ${job.starttime}</p>
+<p>Empowered by Clarive Software ${clarive_version} on ${job.starttime}</p>
 </body>
 </html>
