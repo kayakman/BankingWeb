@@ -13,7 +13,7 @@
 <form method="post" name="login">
 	<fieldset>
 		<p class="grouptop">
-			<label for="user">User: </label>
+			<label for="user">User (Clarive@ENBD): </label>
 			<input type="text" name="user" id="user"
 				placeholder="Username: "
 				value=""
